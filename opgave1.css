@@ -1,0 +1,33 @@
+*{
+    width: 1200px;
+}
+
+ul#horizontal-list a{
+    display: inline;
+}
+ul#horizontal-list li{
+    display: inline;
+}
+li{
+    border: 2px solid black;
+}
+.table{
+    display: table;
+}
+h1{
+    text-align: center;
+}
+.b{
+    display: table;
+    margin: 0 auto;
+}
+ul#horizontal-list {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+}
+img{
+    width:800px;
+    height: 500px;
+}
+
